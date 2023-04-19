@@ -24,8 +24,8 @@
 }
 
 .form-control.invalid input {
-  border-color: 'lightcoral';
-  background: 'pink';
+  border-color: lightcoral;
+  background-color: pink;
 }
 
 .form-control.invalid label {
